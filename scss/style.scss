@@ -12,6 +12,20 @@ main{
         width: 30%;
         height: 100%;
        // border: 10px solid yellow;
+       padding:20vh 5vw 10vh;
+       display: flex;
+       justify-content: flex-start;
+       align-content: space-between;
+       flex-wrap: wrap;
+
+       h1{
+           font:bold 40px/1 "arial";
+           color:#fff;
+       }
+       p{
+           font: 15px/1 "arial";
+           color:#888;
+       }
 
     }
 
