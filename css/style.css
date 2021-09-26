@@ -16,10 +16,10 @@ main {
   overflow: hidden;
   display: flex; }
   main header {
-    width: 30%;
+    width: 29%;
     height: 100%; }
   main section {
-    width: 70%;
+    width: 80%;
     height: 100%;
     display: flex; }
     main section article {
